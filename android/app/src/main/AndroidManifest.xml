@@ -10,7 +10,7 @@
 
 
    <application
-
+        android:name=".Application"
         android:label="Sokrio-Assignment"
         tools:replace="android:label"
         android:icon="@mipmap/ic_launcher">
